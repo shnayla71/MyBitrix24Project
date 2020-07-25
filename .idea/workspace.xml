@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91a78b18-f6cd-40a8-adc9-8bd7a7e50c81" name="Default Changelist" comment="" />
+    <list default="true" id="91a78b18-f6cd-40a8-adc9-8bd7a7e50c81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1enNU1BPsQRd4lUomGw4fvRfnLm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,6 +78,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="254" y="0" key="CommitChangelistDialog2" timestamp="1595711606126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="254" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1595711606126" />
     <state width="1314" height="605" key="GridCell.Tab.0.bottom" timestamp="1595172631864">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -83,9 +102,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="76" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594959240131" />
-    <state x="284" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1595050047473">
+    <state x="284" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1595711180388">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="284" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1595050047473" />
+    <state x="284" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1595711180388" />
+    <state x="447" y="290" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595711563014">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="447" y="290" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1595711563013" />
   </component>
 </project>
