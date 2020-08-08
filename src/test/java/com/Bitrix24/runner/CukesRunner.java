@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
         plugin = "html:target/cucumber-report.html",
         features = "src/test/resources/features",
         glue = "com/Bitrix24/step_definition",
-        dryRun = false,
-        tags = "@login"
+        dryRun = false
+
 )
 public class CukesRunner {
 }

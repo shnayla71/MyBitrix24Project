@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="91a78b18-f6cd-40a8-adc9-8bd7a7e50c81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/logging.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/pages/ActivityStreamPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/step_definition/ActivityStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/step_definition/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/utilities/BrowserUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testData/pupy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/pages/LoginPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/step_definition/GoogleStepDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/step_definition/LoginStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/step_definition/LoginStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ActiveStream.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/MyBitrix24.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/pages/LoginPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/runner/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/runner/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/step_definition/GoogleStepDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/step_definition/LoginStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/step_definition/LoginStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/utilities/ConfigurationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/utilities/ConfigurationReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/Bitrix24/utilities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Search.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,16 +47,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1enNU1BPsQRd4lUomGw4fvRfnLm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showModules" value="false" />
   </component>
@@ -41,6 +67,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testData" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -64,6 +95,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -75,36 +107,92 @@
       <option name="presentableId" value="Default" />
       <updated>1594953410054</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit updated">
+      <created>1595711606354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595711606354</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit updated">
+      <created>1595711681237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595711681237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit updated" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="0" key="CommitChangelistDialog2" timestamp="1595711606126">
+    <state x="389" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596904281357">
+      <screen x="0" y="23" width="1366" height="698" />
+    </state>
+    <state x="389" y="163" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-289.1920.1057/0.23.1366.698@0.23.1366.698" timestamp="1596904281357" />
+    <state x="0" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596896105510">
+      <screen x="0" y="23" width="1366" height="695" />
+    </state>
+    <state x="0" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1596896105510" />
+    <state x="254" y="0" key="CommitChangelistDialog2" timestamp="1595711681078">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="254" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1595711606126" />
-    <state width="1314" height="605" key="GridCell.Tab.0.bottom" timestamp="1595172631864">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="254" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1595711681078" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom" timestamp="1596905640700">
+      <screen x="0" y="23" width="1366" height="701" />
     </state>
-    <state width="1314" height="605" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1595172631864" />
-    <state width="1314" height="605" key="GridCell.Tab.0.center" timestamp="1595172631862">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1596899985551" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1596900087421" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.697@0.23.1366.697" timestamp="1596901594872" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.698@0.23.1366.698" timestamp="1596904751232" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.699@0.23.1366.699" timestamp="1596905464908" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.700@0.23.1366.700" timestamp="1596905570897" />
+    <state width="1314" height="511" key="GridCell.Tab.0.bottom/-1920.-289.1920.1057/0.23.1366.701@0.23.1366.701" timestamp="1596905640700" />
+    <state width="1314" height="605" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1595712831218" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center" timestamp="1596905640699">
+      <screen x="0" y="23" width="1366" height="701" />
     </state>
-    <state width="1314" height="605" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1595172631862" />
-    <state width="1314" height="605" key="GridCell.Tab.0.left" timestamp="1595172631862">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1596899985550" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1596900087420" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.697@0.23.1366.697" timestamp="1596901594871" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.698@0.23.1366.698" timestamp="1596904751232" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.699@0.23.1366.699" timestamp="1596905464906" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.700@0.23.1366.700" timestamp="1596905570896" />
+    <state width="1314" height="511" key="GridCell.Tab.0.center/-1920.-289.1920.1057/0.23.1366.701@0.23.1366.701" timestamp="1596905640699" />
+    <state width="1314" height="605" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1595712831216" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left" timestamp="1596905640698">
+      <screen x="0" y="23" width="1366" height="701" />
     </state>
-    <state width="1314" height="605" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1595172631862" />
-    <state width="1314" height="605" key="GridCell.Tab.0.right" timestamp="1595172631863">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1596899985549" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1596900087419" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.697@0.23.1366.697" timestamp="1596901594870" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.698@0.23.1366.698" timestamp="1596904751231" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.699@0.23.1366.699" timestamp="1596905464903" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.700@0.23.1366.700" timestamp="1596905570896" />
+    <state width="1314" height="511" key="GridCell.Tab.0.left/-1920.-289.1920.1057/0.23.1366.701@0.23.1366.701" timestamp="1596905640698" />
+    <state width="1314" height="605" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1595712831215" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right" timestamp="1596905640699">
+      <screen x="0" y="23" width="1366" height="701" />
     </state>
-    <state width="1314" height="605" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1595172631863" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.695@0.23.1366.695" timestamp="1596899985550" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1596900087420" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.697@0.23.1366.697" timestamp="1596901594871" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.698@0.23.1366.698" timestamp="1596904751232" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.699@0.23.1366.699" timestamp="1596905464908" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.700@0.23.1366.700" timestamp="1596905570897" />
+    <state width="1314" height="511" key="GridCell.Tab.0.right/-1920.-289.1920.1057/0.23.1366.701@0.23.1366.701" timestamp="1596905640699" />
+    <state width="1314" height="605" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1595712831217" />
     <state x="76" y="0" key="SettingsEditor" timestamp="1594959240131">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="76" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1594959240131" />
-    <state x="284" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1595711180388">
+    <state x="284" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1596291129689">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="284" y="180" key="com.intellij.ide.util.TipDialog/-1920.-312.1920.1080/0.0.1366.768@0.0.1366.768" timestamp="1596291129689" />
     <state x="284" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1595711180388" />
     <state x="447" y="290" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595711563014">
       <screen x="0" y="0" width="1366" height="768" />
